@@ -4,7 +4,7 @@ Created on Sun Feb  25 1:19:10 2019
 
 @author: Deepanjan Chakraborti
 Working well with little error. 
-Need to change parameters as were requirements.
+Need to change parameters as per requirements.
 """
 
 import numpy as np
