@@ -2,3 +2,7 @@
 Opencv MOG people counter
 
 For running program write in command line #python test_new1.py
+
+Input file - test_video1.mp4
+
+Output file - final.avi
